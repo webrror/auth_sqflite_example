@@ -2,8 +2,6 @@ import 'package:auth_sqflite/screens/profile.dart';
 import 'package:auth_sqflite/screens/register.dart';
 import 'package:fluentui_system_icons/fluentui_system_icons.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/container.dart';
-import 'package:flutter/src/widgets/framework.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 
 import '../services/crud.dart';
